@@ -10,15 +10,9 @@ yarn install
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### Reto joinbrands
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [Linkedin Link](https://www.linkedin.com/in/hdev07/)
+- [Github Acount](https://github.com/hdev07)
+- [Website](https://evoost.io/es)
+- [Design](https://www.figma.com/file/V9XUcW9rRK2XiwxpKIy29D/Humanited-Site?node-id=0%3A1)
