@@ -6,7 +6,7 @@
 
 <script>
 export default {
-    name:'HroductsComponent'
+    name:'SubsComponent'
 
 }
 </script>

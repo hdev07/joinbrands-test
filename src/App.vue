@@ -7,10 +7,7 @@
     <section id="Products">
       
     </section>
-    <section id="FAQ">
-      
-    </section>
-    <section id="Contact-us">
+    <section id="Subs">
       
     </section>
   </div>
