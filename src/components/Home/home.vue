@@ -8,7 +8,9 @@
             Una plataforma educativa centrada en la formación del SER y el desarrollo del potencial humano
         </p>
         <div class="pb-28">
-            <button class="bg-transparent hover:bg-black text-black font-semibold hover:text-white py-2 px-4 border border-black hover:border-transparent rounded">Registrate</button>
+            <button class="bg-transparent hover:bg-black text-black font-semibold hover:text-white py-2 px-4 border border-black hover:border-transparent rounded">
+                <router-link to="/sing-up">Registrate</router-link>
+            </button>
         </div>
     </div>
     <div class="h-3/5 bg-white" >

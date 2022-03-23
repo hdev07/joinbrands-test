@@ -29,13 +29,15 @@
 				:class="showMenu ? 'flex' : 'hidden'"
 				class="flex-col mt-8 space-y-4 md:flex md:space-y-0 md:flex-row md:items-center md:space-x-10 md:mt-0"
 			>
-				<li class="font-semibold text-black hover:text-gray-500" href="#Home">¿Que es Humanited?</li>
-				<li class="font-semibold text-black hover:text-gray-500" href="#Products">Temas</li>
-				<li class="font-semibold text-black hover:text-gray-500" href="#Subs">Subscripción</li>
-				<li class="font-semibold text-black hover:text-gray-500">Inicia Sesión</li>
+				<li class="font-semibold text-black hover:text-gray-500 cursor-pointer" href="#Home" >¿Que es Humanited?</li>
+				<li class="font-semibold text-black hover:text-gray-500 cursor-pointer" href="#Products">Temas</li>
+				<li class="font-semibold text-black hover:text-gray-500 cursor-pointer" href="#Subs">Subscripción</li>
+				<li class="font-semibold text-black hover:text-gray-500 cursor-pointer">
+					<router-link to="/sig-in">Inicia Sesión</router-link>
+				</li>
 				<div>
 					<button class="bg-transparent hover:bg-black text-black font-semibold hover:text-white py-2 px-4 border border-black hover:border-transparent rounded">
-						Registrate
+						<router-link to="/sing-up">Registrate</router-link>
 					</button>
 				</div>
 			</ul>
