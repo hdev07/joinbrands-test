@@ -9,7 +9,7 @@
         </p>
         <div class="pb-28">
             <button class="bg-transparent hover:bg-black text-black font-semibold hover:text-white py-2 px-4 border border-black hover:border-transparent rounded">
-                <router-link to="/sing-up">Registrate</router-link>
+                <router-link to="/sign-up">Registrate</router-link>
             </button>
         </div>
     </div>

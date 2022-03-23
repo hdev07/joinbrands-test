@@ -7,7 +7,7 @@ import * as VueRouter from 'vue-router';
 const Home = { template: '<div>Home</div>' }
 const signIn = { template: '<div>sign-in</div>' }
 const logOut = { template: '<div>log-Out</div>' }
-const singUp = { template: '<div>sing-up</div>' }
+const signUp = { template: '<div>sign-up</div>' }
 const profile = { template: '<div>profile</div>' }
 const lostPassword = { template: '<div>lost-password</div>' }
 const changePassword = { template: '<div>change-password</div>' }
@@ -16,7 +16,7 @@ const changePassword = { template: '<div>change-password</div>' }
 const routes = [
   { path: '/', component: Home },
   { path: '/sign-in', component: signIn },
-  { path: '/sing-up', component: singUp },
+  { path: '/sign-up', component: signUp },
   { path: '/log-Out', component: logOut },
   { path: '/profile', component: profile },
   { path: '/lost-password', component: lostPassword },
